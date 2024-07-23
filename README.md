@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pingleujjwalcollege](https://medium.com/@pingleujjwalcollege)
 
-- 💬 Ask me about **Cloud Computing**
+- 💬 Ask me about **Cloud Computing ,Dockers ,Kubernates**
 
 - 📫 How to reach me **pingleujjwal@gmailcollege.com**
 
