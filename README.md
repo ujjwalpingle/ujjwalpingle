@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cloud Computing**
 
-- 📫 How to reach me **pingleujjwal@gmail.com**
+- 📫 How to reach me **pingleujjwal@gmailcollege.com**
 
 - 📄 Know about my experiences [https://portfolioujjwalpingle.my.canva.site/](https://portfolioujjwalpingle.my.canva.site/)
 
