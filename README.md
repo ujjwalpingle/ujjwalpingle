@@ -12,7 +12,7 @@
 - 📝 Articles: [Medium](https://medium.com/@pingleujjwalcollege)
 - 💬 Ask me about: **Cloud Computing, Docker, Kubernetes**
 - 📫 Reach me at: **pingleujjwal@gmail.com**
-- 📄 Experience: [Portfolio](https://ujjwalpingle.github.io/))
+- 📄 Experience: [Portfolio](https://ujjwalpingle.github.io/)
 
 <h3>Connect with me:</h3>
 <p>
